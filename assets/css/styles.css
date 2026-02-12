@@ -8,7 +8,7 @@
 --mahogany-red: #a8201aff;
 }
 
-html {
+body {
   background-color: var(--dust-grey);
 }
 h1 {
